@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "description": "This is the description for Product 1."
+    },
+    {
+      "id": 2,
+      "description": "This is the description for Product 2."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    // Add more products as needed
+  ]
 }
